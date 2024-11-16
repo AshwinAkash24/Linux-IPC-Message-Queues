@@ -85,7 +85,7 @@ return 0;
 
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/a473e05c-83c8-47cb-8bab-d44b4f97bc70)
+![image](https://github.com/user-attachments/assets/96c8a238-bc95-46a5-8e0e-90dde783a463)
 
 
 # RESULT:
